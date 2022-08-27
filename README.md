@@ -1,5 +1,5 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=vv0jc13ch&label=Profile%20views&color=0e75b6&style=flat" alt="vv0jc13ch" /> </p>
-<h1 align="center">👋 Hi, I'm VV0JC13CH (WOJCIECH)</h1>
+<h1 align="center">👋 Hi, I'm VV0JC13CH (Wojciech <a href="https://upload.wikimedia.org/wikipedia/commons/1/10/Pl-Wojciech.ogg" target="_blank" rel="noreferrer">🔊</a>)</h1>
 <h3 align="center">I create work-in-progress-side-projects ;-)</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vv0jc13ch" alt="vv0jc13ch" /></a> </p>
