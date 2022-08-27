@@ -8,8 +8,8 @@
 - 💩 The rest of my projects is available [here](https://github.com/VV0JC13CH?tab=repositories&q=&type=public&language=&sort=stargazers).
 
 <h3 align="left">Activity:</h3>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vv0jc13ch&show_icons=true&locale=en" alt="vv0jc13ch" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=vv0jc13ch&" alt="vv0jc13ch" />
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=vv0jc13ch&show_icons=true&locale=en" alt="vv0jc13ch" width="45%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=vv0jc13ch&" alt="vv0jc13ch" width="45%" />
 </p>
 
 
