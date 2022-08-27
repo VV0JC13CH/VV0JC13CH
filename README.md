@@ -9,7 +9,7 @@
 
 <h3 align="left">Activity:</h3>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=vv0jc13ch&show_icons=true&locale=en" alt="vv0jc13ch" width="45%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=vv0jc13ch&" alt="vv0jc13ch" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api?username=vv0jc13ch&show_icons=true&locale=en" alt="vv0jc13ch" width="49%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=vv0jc13ch&" alt="vv0jc13ch" width="49%" />
 </p>
 
 
