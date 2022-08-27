@@ -15,16 +15,14 @@
 
 <h3 align="left">Favorite Languages:</h3>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vv0jc13ch&show_icons=true&locale=en&layout=compact" alt="vv0jc13ch" width="40%" />
-	&nbsp;	&nbsp;	&nbsp;
-<a href="https://github.com/VV0JC13CH?tab=repositories&q=&type=&language=rust&sort=stargazers">  
-<img src="./png/lang_rust.png" height="144px" /></a>
-	&nbsp;	&nbsp;	&nbsp;
-<a href="https://github.com/VV0JC13CH?tab=repositories&q=&type=&language=python&sort=stargazers">  
-<img src="./png/lang_python.png" height="144px" /></a>  
-	&nbsp;	&nbsp;	&nbsp;
-<a href="https://github.com/VV0JC13CH?tab=repositories&q=&type=&language=go&sort=stargazers">  
-<img src="./png/lang_go.png" height="144px" />    
+<a href="https://github.com/VV0JC13CH?tab=repositories">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vv0jc13ch&show_icons=true&locale=en&layout=compact" alt="vv0jc13ch" width="40%" /><a/>
+&nbsp;	&nbsp;	&nbsp;
+<a href="https://github.com/VV0JC13CH?tab=repositories&q=&type=&language=rust&sort=stargazers"><img src="./png/lang_rust.png" width="13%" /></a>
+&nbsp;	&nbsp;	&nbsp;
+<a href="https://github.com/VV0JC13CH?tab=repositories&q=&type=&language=python&sort=stargazers"><img src="./png/lang_python.png" width="13%" /></a>  
+&nbsp;	&nbsp;	&nbsp;
+<a href="https://github.com/VV0JC13CH?tab=repositories&q=&type=&language=go&sort=stargazers"><img src="./png/lang_go.png" width="13%" />    
 </p>
 
 <h3 align="left">Favorite Tools:</h3>
