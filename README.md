@@ -12,7 +12,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=vv0jc13ch&show_icons=true&locale=en" alt="vv0jc13ch" width="49%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=vv0jc13ch&" alt="vv0jc13ch" width="49%" />
 </p>
 
-
 <h3 align="left">Favorite Languages:</h3>
 <p align="left">
 <a href="https://github.com/VV0JC13CH?tab=repositories">
@@ -27,12 +26,11 @@
 
 <h3 align="left">Favorite Tools:</h3>
 <p align="center">
-<a href="https://www.aseprite.org/" target="_blank" rel="noreferrer">
-<img src="./png/asesprite.png" width="64px" height="64px" /></a>
+<a href="https://www.alacritty.org/" target="_blank" rel="noreferrer"><img src="./png/alacritty.png" width="64px" height="64px" /></a>
+<a href="https://www.aseprite.org/" target="_blank" rel="noreferrer"><img src="./png/asesprite.png" width="64px" height="64px" /></a>
 <a href="https://bitwarden.com" target="_blank" rel="noreferrer"><img src="./png/bitwarden.png" width="64px" height="64px" /></a>  
 <a href="https://godotengine.org" target="_blank" rel="noreferrer"><img src="./png/godot.png" width="64px" height="64px" /></a>
 <a href="https://joplinapp.org" target="_blank" rel="noreferrer"><img src="./png/joplin.png" width="64px" height="64px" /></a>
-<a href="https://sw.kovidgoyal.net/kitty" target="_blank" rel="noreferrer"><img src="./png/kitty_term.png" width="64px" height="64px" /></a>
 <a href="https://krita.org/en/" target="_blank" rel="noreferrer"><img src="./png/krita.png" width="64px" height="64px" /></a>
 <a href="https://librewolf.net/" target="_blank" rel="noreferrer"><img src="./png/librewolf.png" width="64px" height="64px" /></a>
 <a href="https://neovim.io" target="_blank" rel="noreferrer"><img src="./png/neovim.png" width="64px" height="64px" /></a>
@@ -44,4 +42,3 @@
 <p align="left">
 <a href="https://twitter.com/vv0jc13ch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vv0jc13ch" height="30" width="40" /></a>
 </p>
-
