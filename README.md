@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hi, I'm VV0JC13CH (Wojciech <a href="https://upload.wikimedia.org/wikipedia/commons/1/10/Pl-Wojciech.ogg" target="_blank" rel="noreferrer">🔊</a>)</h1>
 <h3 align="center">I create work-in-progress-side-projects ;-)</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vv0jc13ch&theme=tokyonight&row=1" alt="vv0jc13ch" width="49%" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vv0jc13ch&theme=tokyonight" alt="vv0jc13ch" width="49%" /></a> </p>
 
 - 🏆 The best projects are available at [https://bitstudio.dev/projects](https://bitstudio.dev/projects)
 - 💩 The rest of my projects is available [here](https://github.com/VV0JC13CH?tab=repositories&q=&type=public&language=&sort=stargazers).
